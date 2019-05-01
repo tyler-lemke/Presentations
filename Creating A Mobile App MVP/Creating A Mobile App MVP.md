@@ -15,6 +15,7 @@ linkedin.com/in/tylerslemke
 tylerlemke.net (Youtube)
 
 # Get This Slide Deck
+## bit.ly/CreateMobileMVP
 
 # Check out ZenLeap (startup I work for)
  - Simplified Hiring
@@ -64,13 +65,12 @@ tylerlemke.net (Youtube)
   - Platform Maturity 
 
   <!-- 
-  
-  
   Platform Maturity - How long has it been around - reverse side, is it getting long in the tooth
   -->
 
 # Caveat Emptor
  - Not an expert
+ - Its hard to compare all the platforms
  - Prototype or Die
  - Just a starting point
 
@@ -126,9 +126,7 @@ Not All Answers - Did I forget to mention I'm not an expert?
  - Share Your Code with Your Website (in Angular)
  - Backed By Progress
  - Documentation
-
 ## Cons
- - No Large Companies Use NativeScript
  - Need to Train Devs
  - Smaller Community (Less Support)
 
@@ -155,6 +153,7 @@ Docs - https://flutter.dev/docs
  - Native-Like Performance
  - Backed By Facebook
 ## Cons
+ - Gotten some bad press lately (AirBnB ditched)
  - Different Programming Paradigm (not bad, just different)
 # Getting Started with React Native
 Starter Apps/Code - https://github.com/ReactNativeNews/React-Native-Apps
@@ -206,10 +205,6 @@ Playground - https://snack.expo.io/
 [Appcelerator](https://www.appcelerator.com/) - Another Native JS Platform
 [SuperNova](https://supernova.io) - Spin up prototypes of Web Apps Quickly
 [Glide Apps](https://www.glideapps.com/) - Mobile app from Google Sheet
-
-
-
-
 
 # More Resource Links/References
 http://www.motionmobs.com/blog/why-flutter/
