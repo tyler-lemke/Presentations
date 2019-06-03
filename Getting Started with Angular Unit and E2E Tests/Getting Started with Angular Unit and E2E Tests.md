@@ -208,9 +208,10 @@ https://github.com/NetanelBasal/spectator
 - https://www.youtube.com/watch?v=GH9Dvo_BYkk
 - https://cypress-io.ghost.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/
 - https://medium.com/reactbrasil/deep-diving-pageobject-pattern-and-using-it-with-cypress-e60b9d7d0d91
+- Cypress + Jest in your project [Nwrl Nx](https://nx.dev/)
 
 # Spectator Resources
-- https://engineering.datorama.com/spectator-for-angular-or-how-i-learned-to-stop-worrying-and-love-the-spec-2aa8521c8488
+- https://engineering.datorama.com/ spectator-for-angular-or-how-i-learned-to-stop-worrying-and-love-the-spec-2aa8521c8488
 - https://github.com/NetanelBasal/spectator
 
 # Wallaby Resources
