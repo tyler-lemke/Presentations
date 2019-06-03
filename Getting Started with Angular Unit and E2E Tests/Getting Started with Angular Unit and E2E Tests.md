@@ -17,7 +17,7 @@ https://www.youtube.com/c/TylerSLemke
  ## http://bit.ly/get-zenleap
 
 # Get this PDF
- - 
+## http://bit.ly/start-angular-testing
 
 # What's up with tonight?
  - Why automated tests are awesome
