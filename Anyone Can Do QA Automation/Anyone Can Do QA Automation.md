@@ -8,13 +8,16 @@ headingDivider: 1
 # Anyone Can Do QA Automation
 ## A starting point for Manual QAs, Devs, and BAs
 Tyler Lemke
-@tylerslemke on most socials
+@tylerslemke
 linkedin.com/in/tylerslemke
 bit.ly/youtube-tl
 
+## Tonight's Slidedeck
+http://bit.ly/start-qa-automation
+
 
 # Goals for Tonight
- - Get you to think of other opportunities to introduce Automated Tests into your Projects
+ - Get the right mindset to start automated testing
  - Introduce you to a lot of tools
 
 # The Problem
@@ -22,6 +25,19 @@ bit.ly/youtube-tl
  - Testing the same things over and over
  - Time Constraints
  - Fear
+
+# My Story
+Why I like automated testing
+
+# Getting Started
+ ![](peak_new_science_.jpg)
+
+# Key Points of Starting
+ - Look for progress, now perfection
+ - Getting started takes time
+ - Get a Mentor and get feedback 
+
+
 
 # Constraints for Tools
  - Free Tools / Possibly Open Source Component to Them
@@ -107,6 +123,8 @@ bit.ly/youtube-tl
 
 
 # More Resources
+
+Tonight's Slidedeck - http://bit.ly/start-qa-automation
 
 Open Source Frameworks for Automation - https://www.reddit.com/r/softwaretesting/comments/80lqsy/10_best_open_source_test_automation_frameworks/
 
