@@ -6,6 +6,8 @@ headingDivider: 1
 
 # How To Remember Everything You Learn in QA Automation
 ## Remember Longer and Waste Less Time
+## bit.ly/remember-qa-all
+
 Tyler S. Lemke
 juniortoseniordev.com (Podcast)
 linkedin.com/in/tylerslemke
