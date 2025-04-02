@@ -9,6 +9,8 @@ paginate: true
 
 ## Hidden Gems & Pro Tips
 
+By Tyler Lemke
+
 ---
 
 ## A Little History on Dev Tools
