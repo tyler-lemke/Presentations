@@ -20,7 +20,7 @@ By Tyler Lemke
 ## 1st Tool with Debug + Web Inspect
 
 - Firebug Extension in 2006
-- Written by NetScape Def - Joe Hewitt
+- Written by NetScape Dev - Joe Hewitt
 - All praise Joe and Timothy Hatcher
 
 ---
@@ -30,7 +30,7 @@ By Tyler Lemke
 _Available in `Settings > Shortcuts`_
 
 - **File search** – `Ctrl + P`
-- **Command menu** – `Ctrl + Shift + O`
+- **Command menu** – `Ctrl + Shift + P`
 - **Open console** – `Ctrl + (Backtick)`
 - **Search in panel** – `Ctrl + F`
 - **Global search** – `Ctrl + Shift + F`
