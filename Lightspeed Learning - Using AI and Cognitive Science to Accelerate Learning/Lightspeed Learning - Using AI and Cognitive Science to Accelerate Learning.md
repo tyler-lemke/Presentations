@@ -1,20 +1,53 @@
-# AI-First Learning Presentation Summary
+---
+theme: gaia
+_class: lead
+paginate: true
+backgroundColor: #fff
+marp: true
+backgroundImage: url('https://marp.app/assets/hero-background.svg')
+---
 
-## Core Concept
-**AI-First Learning**: Using AI as a tutor—not to do the work for you, but to help you iterate, think critically, and engage deeply with the material.
+
+# Lightspeed Learning
 
 ---
 
-## Three Main Benefits
-1. **Breaking Down Subjects Quickly**  
-   AI can help learners deconstruct complex topics into manageable parts, making it easier to get a clear overview and identify core concepts.
+## AI = Problem
 
-2. **Reducing Learning Friction**  
-   AI adapts to each learner’s pace, accessibility needs, and motivational challenges—making learning more inclusive and less overwhelming.
+1. More information > More Code > More Cognitive Load
+2. Skill Atrophy due to the Time Machine Effect (add time machine image)
 
-3. **Continuous Feedback**  
-   Like a personal tutor, AI offers real-time corrections and guidance, which accelerates mastery through timely error feedback.
+<!-- 
+More frameworks
+Faster release cycles
+More information to handle
+Add reference to amount of information and systems growing
+ -->
 
+ <!-- 
+ Skill atrophy 
+- code complete mentions how 50% of Dev skill is lost every 3 years
+- that pace is likely to speed up
+- AI tools can break some of the core tenants that allow us to both learn and retain info
+- we can combat this by using AI tools to our advantage
+  -->
+
+---
+
+## AI + Science = Solution
+1. Need to know how learn effectively
+2. Use AI tools to help us nail this down faster
+
+---
+
+## Cognitive Science to the Rescue
+
+--- 
+## Learning myths can hurt us
+- Learning styles don’t improve outcomes.
+- Left-/Right-brain dominance is a myth.
+- You don’t use just 10% of your brain.
+- Passive learning can work
 ---
 
 ## Cognitive Science Principles (from *Understanding How We Learn*)
@@ -35,25 +68,35 @@
 
 ---
 
-## Additional Key Concepts
-- **Knowledge and Experience Profile**  
-  Envisioning AI that builds a personalized learning map using your prior knowledge, experiences, and interests.
-
-- **Optimal Difficulty (Huberman’s 85% Rule)**  
-  Research supports a **15% failure rate** as the sweet spot for growth. Tasks should feel just hard enough to stretch you without discouraging effort.
-
-- **Curiosity Fuels Learning**  
-  (*How We Learn*): Curiosity increases dopamine and enhances memory. AI can help spark and maintain curiosity by surfacing novel, relevant challenges.
-
-- **Myths Debunked (from *Understanding How We Learn*)**
-  - Learning styles don’t improve outcomes.
-  - Left-/Right-brain dominance is a myth.
-  - You don’t use just 10% of your brain.
-  - Enriched environments & motor exercises don’t boost learning in the ways claimed.
-  - Memory isn’t stored like files—it’s reconstructive.
+## Tools
 
 ---
 
+## Core Concept
+**AI-First Learning**: Using AI as a tutor—not to do the work for you, but to help you iterate, think critically, and engage deeply with the material.
+
+---
+
+## Three Main Benefits
+
+---
+1. **Breaking Down Subjects Quickly**  
+   AI can help learners deconstruct complex topics into manageable parts, making it easier to get a clear overview and identify core concepts.
+
+---
+
+2. **Reducing Learning Friction**  
+   AI adapts to each learner’s pace, accessibility needs, and motivational challenges—making learning more inclusive and less overwhelming.
+
+---
+
+3. **Continuous Feedback**  
+   Like a personal tutor, AI offers real-time corrections and guidance, which accelerates mastery through timely error feedback.
+
+---
+
+
+---
 ## Pitfalls of AI-First Learning
 - **Over-reliance on Automation**  
   Without self-monitoring and active thinking, learners may disengage or misunderstand the material.
@@ -63,20 +106,38 @@
 
 ---
 
-## Interactive Format (Show, Don’t Just Tell)
-The presentation will include:
-- **Live Quizzes** – For active recall and retrieval.
-- **On-the-Spot Activities** – E.g., completing a one-pager during the talk.
-- These will be used to reinforce key points in real-time and demonstrate the power of interactive, feedback-rich learning.
+---
+
+## Takeaway
+
+Get out a notebook and write down:
+
+1. What are you going to learn?
+2. What tools are you going to use to learn it?
+3. What are you going to avoid learning or consuming?
+<!-- 
+What do you need to learn vs what to outsource to AI?
+
+Is the syntax important?
+Is understanding key principles important?
+Is knowledge sharing important?
+
+What to learn
+What to avoid learning
+80/20 of learning
+ -->
+4. What system will you put in place to master this subject?
 
 ---
 
-## References
-- **Books**:
-  - *Understanding How We Learn* – Weinstein & Sumeracki
-  - *How We Learn* – Stanislas Dehaene
-  - *Make It Stick* – Peter C. Brown et al.
+## Closing
 
-- **Research & Media**:
-  - *Nature Communications (2019)* – Study on the 85% Rule
-  - Andrew Huberman – Podcast & YouTube explanations of optimal challenge level
+- Time and Attention are our most precious resources
+- How are you going to spend it?
+
+---
+
+## Resources
+
+---
+
